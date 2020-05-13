@@ -1,1 +1,1 @@
-# python-live-training-template
+# Python Live Training Template
