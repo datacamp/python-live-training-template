@@ -146,5 +146,5 @@ To get yourself started with setting up your live session, follow the steps belo
 3. Upload your images, gifs, or any other assets you want to use in the notebook in the `assets` folder.
 4. Check out the notebooks templates in the `notebooks` folder, and keep the template you want for your session while deleting all remaining ones.
 5. Preview your desired notebook, press on "Open in Colabs" extension - and start developing your content in colabs _(which will act as the solution code to the session)_.  :warning: **Important** :warning: Your progress will **not** be saved on Google Colabs since it's a temporary link. To save your progress, make sure to press on `File`, `Save a copy in GitHub` and follow remaining prompts. You can also download the notebook locally and develop the content there as long you test out that the syntax works on Colabs as well.
-6. Once your notebooks is ready to go, create an empty version of the Notebook to be filled out by you and learners during the session, end the file name with `_learners.ipynb`. 
+6. Once your notebooks is ready to go, give it the name `session_name_solution.ipynb` create an empty version of the Notebook to be filled out by you and learners during the session, end the file name with `session_name_learners.ipynb`. 
 7. Create Colabs links for both sessions and save them in notebooks :tada: 
